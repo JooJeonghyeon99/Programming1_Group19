@@ -5,7 +5,7 @@ Our team have 3 members:
        - Nguyen Hoang Minh Thong
        - Le Ngoc Cao Son
        - Joo Jeonghyeon
-Link for presentation (YOUTUBE URL):
+Link for presentation (YOUTUBE URL): https://youtu.be/TEhYD6LQOWw
 
 Github link: https://github.com/JooJeonghyeon99/Programming1_Group19
 
