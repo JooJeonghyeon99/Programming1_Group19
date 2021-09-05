@@ -149,7 +149,5 @@ public class MenuUI {
         frame.setVisible(true);
     }
 
-    public static void main(String[] args) {
-
-    }
+    
 }
